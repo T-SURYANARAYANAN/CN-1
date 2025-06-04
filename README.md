@@ -85,10 +85,10 @@ s.send("acknowledgement recived from the server".encode())
 ## Output
 
 ### Client
-![alt text](<Screenshot 2024-08-21 153125.png>)
+![image](https://github.com/user-attachments/assets/9e51d3bf-a793-4d7c-9c83-b1cfb54c7261)
 
 ### Server
-![alt text](<Screenshot 2024-08-21 153206.png>)
+![image](https://github.com/user-attachments/assets/89837d09-23cc-41d6-9e55-8616be149891)
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
